@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "D48DCAEEC8910E0681533051EBB1E04F",
+  "keywordClasses": [
+    {
+      "name": "pengajuan.pengajuan",
+      "keywordMethods": []
+    },
+    {
+      "name": "pengajuan.pengisian",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
